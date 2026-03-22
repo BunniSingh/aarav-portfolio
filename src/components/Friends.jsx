@@ -6,7 +6,7 @@ const Friends = () => {
     { name: 'Ali', emoji: '🦁', color: 'from-amber-400 to-orange-500' },
     { name: 'Lado', emoji: '🐼', color: 'from-green-400 to-emerald-500' },
     { name: 'Gulabsa', emoji: '🌸', color: 'from-pink-400 to-rose-500' },
-    { name: 'Pratick', emoji: '🚀', color: 'from-blue-400 to-indigo-500' },
+    { name: 'Pratik', emoji: '🚀', color: 'from-blue-400 to-indigo-500' },
     { name: 'Ashish', emoji: '⭐', color: 'from-purple-400 to-violet-500' },
   ];
 
